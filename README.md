@@ -51,8 +51,8 @@
 ```
 @font-face {
   font-family: SweiShearSansCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-shear-sans@2.1/WebFont/CJK%20TC/SweiShearSansCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-shear-sans@2.1/WebFont/CJK%20TC/SweiShearSansCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-shear-sans@2.115/WebFont/CJK%20TC/SweiShearSansCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-shear-sans@2.115/WebFont/CJK%20TC/SweiShearSansCJKtc-Regular.woff) format("woff");
 }
 ```
 
